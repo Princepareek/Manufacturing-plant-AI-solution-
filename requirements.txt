@@ -1,0 +1,27 @@
+# Common dependencies for all tasks in my_proj
+
+# Core app framework
+streamlit
+python-dotenv
+
+# LangChain ecosystem
+langchain
+langchain-community
+langchain-core
+langchain-google-genai
+google-generativeai
+langgraph
+langgraph-checkpoint-sqlite
+
+# Data processing & utilities
+requests
+pandas
+pyyaml
+pypdf
+python-docx
+tqdm
+
+# AI / embeddings / vector search
+faiss-cpu
+sentence-transformers
+transformers
